@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  },
+  "name": "webdev-cw-instapro",
+  "description": "MVP аналога популярной соц. сети для обмена фотографиями",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bestpaul73/webdev-cw-instapro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bestpaul73/webdev-cw-instapro/issues"
+  },
+  "homepage": "https://github.com/Bestpaul73/webdev-cw-instapro#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
